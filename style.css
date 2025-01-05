@@ -6,7 +6,7 @@ background-color:#ffc;
 div {
 text-align: center;
 width:auto;
-font-size:18px; 
+
 padding:3px;
 }
 
@@ -15,7 +15,7 @@ border:1px solid black;
 }
 
 input {
-width:130px;
+width:90px;
 background-color:white;
 color:black;
 text-align:center;
@@ -30,8 +30,8 @@ outline: none;
     background-color:#000;
     left:0px;
     bottom:0px;
-    position:fixed;
-    width:100%;
+    
+    width:99%;
     text-align:center;
     height:150px;
     }
